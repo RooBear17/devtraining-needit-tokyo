@@ -599,7 +599,10 @@
                             "address" : [ "query" ]
                           }
                         },
-                        "listView" : null,
+                        "listView" : {
+                          "type" : "JSON_LITERAL",
+                          "value" : "Experience_list"
+                        },
                         "listTitle" : {
                           "type" : "EVENT_PAYLOAD_BINDING",
                           "binding" : {
