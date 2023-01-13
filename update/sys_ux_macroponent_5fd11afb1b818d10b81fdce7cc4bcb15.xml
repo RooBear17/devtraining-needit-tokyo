@@ -3470,8 +3470,8 @@
       },
       "overrides" : {
         "composition" : [ {
-          "elementId" : "next_needit_form_modal",
-          "elementLabel" : "Next NeedIt Form Modal",
+          "elementId" : "next_needit_modal_form",
+          "elementLabel" : "Next NeedIt Modal Form",
           "propertyValues" : {
             "encodedRecord" : {
               "type" : "JSON_LITERAL",
@@ -3584,7 +3584,7 @@
           "default" : {
             "children" : null,
             "isInline" : null,
-            "items" : [{"element_id":"next_needit_form_modal","styles":{}}],
+            "items" : [{"element_id":"next_needit_modal_form","styles":{}}],
             "root" : null,
             "rules" : null,
             "styles" : {"flex-direction":"column"},
